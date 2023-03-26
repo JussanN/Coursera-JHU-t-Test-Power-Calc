@@ -6,8 +6,8 @@ The final project is a Two Sample T-test Power Calculator built in the Shiny app
 
 In this repository you'll find:
 
--- the app.R file containing the ui and server code. 
+- the app.R file containing the ui and server code. 
 
--- the pitch deck under the following link: 
+- the pitch deck under the following link: https://jussann.github.io/Developing-Data-Products-JHU/#1
 
 
