@@ -8,6 +8,5 @@ In this repository you'll find:
 
 - the app.R file containing the ui and server code. 
 
-- the pitch deck under the following link: https://jussann.github.io/Developing-Data-Products-JHU/#1
 
 
