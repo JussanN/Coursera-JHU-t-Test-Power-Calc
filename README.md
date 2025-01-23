@@ -1,4 +1,4 @@
-# Developing-Data-Products-JHU
+# Two Sample T-test Power Calculator
 
 This is the final project repository of the Developing Data Products Johns Hopkins University's Data Science Specialization in Coursera.
 
